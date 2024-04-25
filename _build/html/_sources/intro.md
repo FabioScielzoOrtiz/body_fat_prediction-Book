@@ -6,7 +6,7 @@
 
 🔻The aim is to estimate body fat percentage according to the Siri equation without using body density as a variable, as in practice it is costly to calculate.
 
-Machine Learning methodologies are used to find the best model to estimate (predict) the body fat percentage of individuals without the need to calculate body density.
+🔻Machine Learning methodologies are used to find the best model to estimate (predict) the body fat percentage of individuals without the need to calculate body density.
 
 ```{tableofcontents}
 ```
